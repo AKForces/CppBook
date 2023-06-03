@@ -46,4 +46,4 @@ int main()
 ```
 - 这段代码定义了一个字符串s，它的值为 `I love c++!`。然后定义了一个指针变量p，它存储了s的地址。通过使用指针p，代码输出了s的值，即 `I love c++!`。接着，代码通过指针p修改了s的值为 `We love c++!`，并再次输出了s的值，即 `We love c++!`。
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
