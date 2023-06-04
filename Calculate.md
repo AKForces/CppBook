@@ -6,8 +6,8 @@ int main() {
     cout << ('a' + 1) << '\n';                      // int
     cout << ((1 == 0) + 'a') << '\n';               // int
     cout << ('a' + (1 == 0)) << '\n';               // int
-    cout << ('a' + 3.0) << '\n';                    // int
-    cout << (3.0 + 'a') << '\n';                    // int
+    cout << ('a' + 3.0) << '\n';                    // double
+    cout << (3.0 + 'a') << '\n';                    // double
     cout << (' ' + ' ') << '\n';                    // int
     cout << ((3 == 0) + 'a' + 1 + 3.0) << '\n';     // double
     cout << ((3 == 0) + (3 == 1)) << '\n';          // int
